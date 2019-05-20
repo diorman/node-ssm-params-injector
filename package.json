@@ -1,6 +1,6 @@
 {
   "name": "ssm-params-injector",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "AWS Systems Manager (SSM) parameters injector",
   "keywords": [
     "ssm",
@@ -15,8 +15,8 @@
     "typescript",
     "javascript"
   ],
-  "main": "./dist/index.js",
-  "types": "./dist/index.d.ts",
+  "main": "./dist/lib/index.js",
+  "types": "./dist/lib/index.d.ts",
   "homepage": "http://github.com/diorman/node-ssm-params-injector.git",
   "scripts": {
     "test": "jest",
