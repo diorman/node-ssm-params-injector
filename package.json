@@ -18,6 +18,9 @@
   "main": "./dist/lib/index.js",
   "types": "./dist/lib/index.d.ts",
   "homepage": "http://github.com/diorman/node-ssm-params-injector.git",
+  "files": [
+    "dist/lib"
+  ],
   "scripts": {
     "test": "jest",
     "build": "tsc",
