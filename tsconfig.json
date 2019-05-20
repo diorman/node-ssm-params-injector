@@ -15,6 +15,7 @@
     "strict": true,
     "types": ["node", "jest"],
     "downlevelIteration": true,
-    "esModuleInterop": true
+    "esModuleInterop": true,
+    "declaration": true
   }
 }
