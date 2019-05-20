@@ -1,3 +1,6 @@
 lib/
 test/
 dist/test
+jest.config.js
+tsconfig.json
+tslint.json
